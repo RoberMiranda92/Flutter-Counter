@@ -1,4 +1,4 @@
-# first_counter
+# Flutter-Counter
 
 My first flutter project!!!
 
